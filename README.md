@@ -5,8 +5,8 @@ Google Scholar ile karşılaştırır; eksikleri otomatik mail ile bildirir.
 
 ## Kurulum (Windows x64)
 
-1. Aşağıdaki **Releases** sekmesinden en son sürümü indirin
-2. `Künye Setup x.x.x.exe` dosyasını çalıştırın
+1. Yanda bulunan **Releases** sekmesinden en son sürümü indirin
+2. `Künye Setup v0.3.2.exe` dosyasını çalıştırın
 3. `C:\Program Files\Künye` altına kurulur
 
 ## Sistem Gereksinimleri
